@@ -9,3 +9,6 @@ Detect and address potential gender pay gaps,
 Ensure compliance with compensation regulations,
 Implement fair performance-based bonus distribution,
 Support strategic decision-making to foster an inclusive and accountable workplace culture.
+
+## Data set used
+-<a href="https://
