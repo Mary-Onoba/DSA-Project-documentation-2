@@ -28,7 +28,7 @@ employees a minimum of $90,000
 etc.? 
 - Also visualize this by regions
 
-- Dashboard interaction <a href=https://github.com/Mary-Onoba/DSA-Project-documentation-2/blob/main/Dashboard%20PBI.png> view Dashboard</a>
+### Dashboard interaction <a href=https://github.com/Mary-Onoba/DSA-Project-documentation-2/blob/main/Dashboard%20PBI.png> view Dashboard</a>
 
 ## Process
 - Verified the data for missing values like blank salaries, "NULL" departments, and undisclosed genders, then cleaned them accordingly.
