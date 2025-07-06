@@ -26,4 +26,6 @@ employees a minimum of $90,000
 - Show the pay distribution of employees grouped by a band of $10,000. For example: 
 - How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, 
 etc.? 
-- Also visualize this by regions 
+- Also visualize this by regions
+
+- Dashboard interaction <a href=
