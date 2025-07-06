@@ -35,3 +35,7 @@ etc.?
 - Ensured data consistency and correctness across data types, formats, and values. Replaced missing gender entries with "Undisclosed".
 - Created calculated columns and DAX measures to address key questions on gender distribution, ratings, salary structure, and bonus calculations.
 - Built multiple visualizations (bar charts, pie charts, histograms, scatter plots) and combined them into an interactive Power BI dashboard for insights and storytelling.
+
+  ## Dashboard
+  ![Dashboard PBI](https://github.com/user-attachments/assets/d84ca48b-a84e-4daa-b537-4f021a3c0cba)
+
