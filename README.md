@@ -39,3 +39,11 @@ etc.?
   ## Dashboard
   ![Dashboard PBI](https://github.com/user-attachments/assets/d84ca48b-a84e-4daa-b537-4f021a3c0cba)
 
+ ## Project Insights
+- Gender Imbalance: The organization has a visible gender imbalance across regions and departments, with certain regions showing significant underrepresentation of one gender.
+- Undisclosed Gender Entries: A number of employees did not disclose their gender, which affects clarity in workforce diversity reporting.
+- Gender Pay Gap: There are noticeable disparities in average salaries between genders, particularly in specific departments and regions, indicating potential gender pay gaps that require attention.
+- Performance Ratings by Gender: Average performance ratings were similar across genders, suggesting that pay gaps may not be performance-based.
+- Salary Compliance Issue: Several employees earn below the newly established minimum salary threshold of $90,000, especially in certain regions, which could expose the company to regulatory penalties.
+- Bonus Allocation: Bonus payments based on ratings revealed regional disparities in total payouts, which may correlate with performance trends or workforce composition in those regions.
+- Need for Policy Reforms: These findings highlight the need for stronger HR policies on gender equality, compensation equity, and employee data completeness
