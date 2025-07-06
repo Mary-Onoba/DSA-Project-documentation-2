@@ -12,3 +12,18 @@ Support strategic decision-making to foster an inclusive and accountable workpla
 
 ## Data set used
 <a href="https://github.com/Mary-Onoba/DSA-Project-documentation-2/blob/main/Palmoria%20Group%20emp%20DSA%20Projecct.pbix">Palmoria Group Employee Data</a>
+
+## Analysis Tasks
+1. What is the gender distribution in the organization? Distil to regions and 
+departments 
+2. Show insights on ratings based on gender 
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If 
+there is, identify the department and regions that should be the focus of 
+management 
+4. A recent regulation was adopted which requires manufacturing companies to pay 
+employees a minimum of $90,000 
+- Does Palmoria meet this requirement? 
+- Show the pay distribution of employees grouped by a band of $10,000. For example: 
+- How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, 
+etc.? 
+- Also visualize this by regions 
