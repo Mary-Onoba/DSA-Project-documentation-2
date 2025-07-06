@@ -47,3 +47,17 @@ etc.?
 - Salary Compliance Issue: Several employees earn below the newly established minimum salary threshold of $90,000, especially in certain regions, which could expose the company to regulatory penalties.
 - Bonus Allocation: Bonus payments based on ratings revealed regional disparities in total payouts, which may correlate with performance trends or workforce composition in those regions.
 - Need for Policy Reforms: These findings highlight the need for stronger HR policies on gender equality, compensation equity, and employee data completeness
+
+  ## Conclusion
+The Palmoria Group HR Analysis has uncovered critical workforce patterns, particularly around gender representation, salary structure, and performance-linked compensation. The findings clearly show a gender imbalance in some regions and departments, as well as salary disparities that suggest a gender pay gap. These issues, if left unaddressed, could affect employee morale, retention, and the company’s public image especially in light of recent media attention.
+Additionally, the organization falls short of complying with the newly introduced $90,000 minimum salary regulation in some cases. While performance ratings are generally consistent across genders, the bonus allocation process could benefit from more transparency and standardization.
+
+To build a more equitable and compliant workforce, Palmoria must take active steps to:
+
+- Review and address pay discrepancies,
+- Promote inclusive hiring and data reporting practices,
+- Regularly audit salary structures by gender and region,
+- Ensure full compliance with evolving labor regulations,
+With these data-driven insights, Palmoria is now well-positioned to take strategic HR actions that support fairness, compliance, and long-term business success.
+
+
